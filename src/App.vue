@@ -34,7 +34,7 @@ import Whatsapp from "./components/icons/Whatsapp.vue";
         <Experience class="mb-10" />
       </section>
       <section class="py-2 border-t mb-10">
-        <div class="flex justify-between items-center gap-2">
+        <div class="flex flex-wrap justify-between items-center gap-2">
           <div class="flex items-center gap-2">
             <span><Mail /></span>
             <a href="mailto:hallo.anewahyudi@gmail.com" class="text-gray-600 hover:text-gray-900 font-medium duration-300">hallo.anewahyudi@gmail.com</a>
