@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sanur Elok Residence",
+        "url": "https://sanurelokresidence.co.id",
+        "image" : "img/img-ser.png"
+    },
+    {
+        "name": "LP3I",
+        "url": "https://www.lp3i.ac.id/",
+        "image" : "img/lp3i.jpg"
+    },
+    {
+        "name": "Adi Pradana Lestari",
+        "url": "https://adipradanalestari.co.id/",
+        "image" : "img/img-apl.png"
+    },
+    {
+        "name": "7 Bata Pertama",
+        "url": "https://7bata.co.id/",
+        "image" : "img/7bata.jpg"
+    },
+    {
+        "name": "Sendo Indonesia",
+        "url": "https://sendoindonesia.com/",
+        "image" : "img/sendo.jpg"
+    },
+    {
+        "name": "B2B Sinergi",
+        "url": "https://b2bsinergi.com/",
+        "image" : "img/b2b.jpg"
+    }
+]
